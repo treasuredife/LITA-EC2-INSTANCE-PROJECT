@@ -7,5 +7,5 @@ created a separate vpc for smartshop, which had 2 subnets, one public subnet and
 ![my vpc details](/Vpc.png)
 ### Creating My subnets
 I created 2 subnets, one public subnet and one private subnet.
-! [private subnet] (/private_subnet.png)
-! [public subnet] (/Public_subnet.png)
+![private subnet](/private_subnet.png)
+![public subnet](/Public_subnet.png)
